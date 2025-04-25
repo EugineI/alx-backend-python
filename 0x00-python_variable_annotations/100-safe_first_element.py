@@ -1,4 +1,4 @@
-#!/ust/bin/env python3
+#!/usr/bin/env python3
 """duck-type"""
 from typing import Sequence, Any, Union
 
